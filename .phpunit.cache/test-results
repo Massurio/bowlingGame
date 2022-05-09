@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"BowlingTest\\BowlingTest::testCanCreateGame":0.002,"BowlingTest\\BowlingTest::testCanRoll":0,"BowlingTest\\BowlingTest::testGutterGame":0.001,"BowlingTest\\BowlingTest::testAllOnes":0,"BowlingTest\\BowlingTest::testOneSpare":0,"BowlingTest\\BowlingTest::testOneStrike":0,"BowlingTest\\BowlingTest::testPerfectGame":0}}

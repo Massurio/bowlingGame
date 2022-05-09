@@ -49,3 +49,6 @@ class Game
         return $score;
     }
 }
+$cout = new Game();
+$cout->roll(104);
+echo $cout->score($score = 10, $firstInFrame = 30);
